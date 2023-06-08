@@ -16,36 +16,71 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
 global.owner = ['201098906252'] //ur owner number
-global.ownername = "ᗴᒪᘜᗩᘔᗩᖇ ᗩᒪᗯᗩᘔᗴᖇ❤️" //ur owner name
-global.ytname = "YT: ELGAZAR" //ur yt chanel name
+global.ownername = "👑 ملک القڕاصنة 👑" //ur owner name
+global.ytname = "YT:👑 ملک القڕاصنة 👑" //ur yt chanel name
 global.socialm = "GitHub: ELGAZAR" //ur github or insta name
 global.location = "Africa, Egypt, Cairo" //ur location
 
 //bot bomdy 
 global.ownernomer = "201098906252" //ur number
 global.premium = ['201098906252'] //ur premium number
-global.botname = '❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️' //ur bot name
+global.botname = '👑 ملک القڕاصنة 👑' //ur bot name
 global.linkz = "https://youtube.com/@ABDALLAH_MOHAMED" //your theme url which will be displayed on whatsapp
 global.websitex = "https://telegra.ph/file/ec763cc3e7c88d0e67682.jpg" //ur website to be displayed
 global.botscript = 'https://youtube.com/@ABDALLAH_MOHAMED' //script link
 global.themeemoji = "♥" //ur theme emoji
-global.packname = "⍣الجزار الوزير يروحي⍣" //ur sticker watermark packname
+global.packname = "⍣*اهلا بكم معكم بوت لوفي 👑 ملک القڕاصنة 👑*" //ur sticker watermark packname
 global.author = "⍣01098906252⍣" //ur sticker watermark author
 global.wm = "❤️ᗴᒪᘜᗩᘔᗩᖇ ᗷOT❤️." //ur watermark
 
 // Other
-global.sessionName = 'session'
+global.sessionName = '👑 ملک القڕاصنة 👑'
 global.prefa = ['','!','.','#','&']
 global.sp = ''
 
 //messages
 global.mess = {
     success: 'تم يروحي✨',
-    admin: '『 الامر دا لادمن بس! 』',
-    botAdmin: '『 ارفع البوت ادمن الاول 』',
-    premime: '『 ميزات خاصة متميزة إذا كنت ترغب في تسجيل نوع الإيجار 』',
-    owner: '『 الميزه دي للمطور بس! 』',
-    group: '『 الميزه دي للجروبات بس! 』',
+    لوفي: '『 *نعم يا قلب لوفي*👍😇』',
+    من تحب: '『 *هل هاذا سؤال اكيد انت* 👍😇🖤』',
+    استمارة: '『 ~*_♧﹉Π【اعـــلان دخـ✨ـول 】Π﹉♧_*~
+
+『• ━━━━━━⊱🕊⊰━━━━━━ •』
+
+*♛ ¦ لــقــــب الـعــضــو 🤵🏼:*
+
+~*【】➥*~
+
+*♖ ¦ اللــقــــب مـــن انــمـي ✨ :*
+
+~*【】➥*~
+
+*♙ ¦ الــمـــــنــــشــــــن 📝 :*
+
+~*【⁩⁩⁩⁩】➥*~
+
+『• ━━━⊱🕊⊰━━━ •』
+
+*〘اهلا بڪ/ﻲ في نقابتنا و عائلتنا المتواضعه 🙋🏼‍♂️*
+
+*و يشرفنا و يسعدنا دخولڪ/ﻲ وتشرفنا بڪ/ﻲ 🫡*
+
+*و نتمنى ان تستمتع/ﻲ بوقتڪ/ﻲ معنا😇*
+
+*¦ اهلا بڪ/ﻲ 😁👋〙*
+
+『• ━━━━━━⊱🕊⊰━━━━━━ •』
+
+*【بقية الجروبات اجباري الدخول】*
+
+*【في الوصف】*
+
+『• ━━━━━━⊱🕊⊰━━━━━━ •』
+
+ _~*(نقابة)*~_ :
+
+*~_مملكة_~*: _𝒀𝑶𝑵𝑲𝑶_ 』',
+    قوانين: '『 لم اضف القوانين بعد لأن البوت تحت التطوير اسف 👍😅✨ 』',! 』',
     private: '『 الميزه دي في الخاص بس! 』',
     bot: '『 الميزه دي للبوت بس! 』',
     wait: '『 استني شويه... 』',
@@ -87,16 +122,21 @@ global.limitAwal = {
 }
 
 //adventure2
-global.emot = {
-role: '🏆',
-level: '🎚️',
-limit: '📊',
-health: '❤️',
-exp: '💫',
-money: '💵',
-potion: '🥤',
-diamond: '💎',
-common: '📦',
+اهلا بكم في نقابة اليونكو
+global.emot =الرتب
+
+role: '🏆'المؤسس :لوفي,
+level: '🎚️'النائب : ميدوريا,
+limit: '📊': غارب ادميرال,
+health: '❤️'هاشيرا : زورو
+	
+
+exp: '💫'الاعلانات https://chat.whatsapp.com/L8XTS6afXul1qUOizZgQI8,
+money: '💵'الاخبار : https://chat.whatsapp.com/EM5X4TuOA9C1JL2GqZlUyy,
+potion: '🥤'المتجر : https://chat.whatsapp.com/Fv2ZHelcBXxKIdWueCX032,
+diamond: '💎'الإدارة : https://chat.whatsapp.com/DsJjIm9OdPbGk3j3SFW5Jx,
+common: '📦'القوانين : 
+,
 uncommon: '🎁',
 mythic: '🗳️',
 legendary: '🗃️',
